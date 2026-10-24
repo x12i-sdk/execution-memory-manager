@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Memory management utilities for execution history objects.
-- A Execution integration needs to reuse the capabilities of @x12i/execution-memory-manager inside a larger application.
+- Store execution memories and retrieve the entries for a chosen role.
+- Export a selected execution history as Markdown for inspection.
 
 ## Links
 
