@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/execution-memory-manager",
+  "packageVersion": "1.2.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/execution-memory-manager",
+  "usageRepository": "https://github.com/x12i-sdk/execution-memory-manager",
+  "sourceRepository": "https://github.com/x12i/execution-memory-manager",
+  "sourceCommit": "8a336ede4c778ff1d292b23c609a42c7ad3c05d4",
+  "sourcePackageDirectory": ".",
+  "example": {
+    "title": "Store execution memories and retrieve one role",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:12:28.474216+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "d33d48c81db672676da3dbf6409f3ba7ef0b79c4af3bfaa277a4dea9ad156ed6",
+    "manifestSha256": "962e0fca021aca97e93ec7ed5d2c415debb99e09bd0a30e2d39e3ac48ca42f8b"
+  }
+}
